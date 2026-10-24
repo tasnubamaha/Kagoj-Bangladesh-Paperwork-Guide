@@ -1,4 +1,4 @@
-Live Link : https://fascinating-clafoutis-7e6315.netlify.app/
+Live Link : https://adorable-starlight-4bf0db.netlify.app/
 
 I built Kagoj (কাগজ, "paper") to change that: a free mobile guide that turns each process into a checklist, a sequence of steps and a direct link to the official portal.
 
