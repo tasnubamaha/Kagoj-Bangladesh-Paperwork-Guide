@@ -20,6 +20,4 @@ Built to be trustworthy
 
 What I learned: with public information, being clear about what you do not know matters as much as what you do.
 
-I am looking for feedback from people who have been through these processes, and for legal and public-administration professionals willing to review the content.
 
-Which service should I cover next?
